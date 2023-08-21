@@ -1,0 +1,17 @@
+
+.main{
+
+  background-color: gray;
+}
+.header{
+  background-color:blue ;
+  padding: 10wh;
+  margin-bottom: 1000px;
+  
+}
+
+button{
+  padding: 3rem;
+  color: darkblue;
+  margin-bottom: 1rem;
+}
